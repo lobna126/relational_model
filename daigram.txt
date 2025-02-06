@@ -1,0 +1,6 @@
+
+•  Hotel (Hotel_Id, Hotel_Name)
+•  Type (Type_Id, Type_Name)
+•  Room (Room_Id, Floor, #Type_Id , #Hotel_Id )
+•  Category (Category_Id, Category_Name, Price, Beds_numbers)
+•  Employee (Employee_Id, Employee_Name, Employee_Specialty, #Hotel_Id )
